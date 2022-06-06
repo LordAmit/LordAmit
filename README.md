@@ -4,7 +4,7 @@ Amit Seal Ami is researching Cyber Security and Software Engineering as a Ph.D. 
 
 Using software engineering research techniques, he creates systematic evaluation frameworks that can help improve security focused techniques or software.
 
-I also work on open source projects at my free time (and make my research related source codes open as soon as possible!), which is why I am here. To learn more about me, you are welcome to browse the repos I have as well as the following links!
+Amit also works on open source projects at his free time (and makes research related source codes open as soon as possible!), which is why he is here. To learn more about him, you are welcome to browse the repos he has as well as the following links!
 
 - Website: https://amitsealami.com
 - Twitter: https://twitter.com/Amit_Seal_Ami 
