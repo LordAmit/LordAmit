@@ -1,14 +1,13 @@
 ### Hi there 👋
 
-I am a Ph.D. Candidate at the Computer Science Department, William & Mary, Co-advised by Dr. Adwait Nadkarni and Dr. Denys Poshyvanyk. I am currently researching Computer Security and Software Engineering as part of the SPL and SEMERU research groups.
+Amit Seal Ami is researching Cyber Security and Software Engineering as a Ph.D. Candidate at the Computer Science Department, William & Mary. He is Co-advised by Dr. Adwait Nadkarni and Dr. Denys Poshyvanyk, as part of the SPL and SEMERU research groups.
 
-Using software engineering techniques, I research to create systematic frameworks that can help fix/find security related issues in existing software or approaches.
+Using software engineering research techniques, he creates systematic evaluation frameworks that can help improve security focused techniques or software.
 
 I also work on open source projects at my free time (and make my research related source codes open as soon as possible!), which is why I am here. To learn more about me, you are welcome to browse the repos I have as well as the following links!
 
 - Website: https://amitsealami.com
 - Twitter: https://twitter.com/Amit_Seal_Ami 
-- Facebook: https://facebook.com/Amit.Seal.Ami
 - LinkedIn: https://www.linkedin.com/in/AmitSealAmi
 
 <!--
