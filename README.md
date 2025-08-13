@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-Amit Seal Ami is researching Cyber Security and Software Engineering as a Ph.D. Candidate at the Computer Science Department, William & Mary. He is Co-advised by Dr. Adwait Nadkarni and Dr. Denys Poshyvanyk, as part of the SPL and SEMERU research groups.
+Amit Seal Ami is researching Cyber Security and Software Engineering at the Bellini College of Artificial Intelligence, Cybersecurity, and Computing at the University of South Florida.
 
 Using software engineering research techniques, he creates systematic evaluation frameworks that can help improve security focused techniques or software.
 
 Amit also works on open source projects at his free time (and makes research related source codes open as soon as possible!), which is why he is here. To learn more about him, you are welcome to browse the repos he has as well as the following links!
 
 - Website: https://amitsealami.com
-- Twitter: https://twitter.com/Amit_Seal_Ami 
+- Xwitter: https://x.com/Amit_Seal_Ami 
 - LinkedIn: https://www.linkedin.com/in/AmitSealAmi
 
 <!--
