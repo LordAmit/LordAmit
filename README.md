@@ -7,8 +7,10 @@ Using software engineering research techniques, he creates systematic evaluation
 Amit also works on open source projects at his free time (and makes research related source codes open as soon as possible!), which is why he is here. To learn more about him, you are welcome to browse the repos he has as well as the following links!
 
 - Website: https://amitsealami.com
-- Xwitter: https://x.com/Amit_Seal_Ami 
+- "Xwitter": https://x.com/Amit_Seal_Ami 
 - LinkedIn: https://www.linkedin.com/in/AmitSealAmi
+
+![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=lordamit&show_icons=true&theme=transparent)
 
 <!--
 **LordAmit/LordAmit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
