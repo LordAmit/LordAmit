@@ -10,7 +10,7 @@ Amit also works on open source projects at his free time (and makes research rel
 - "Xwitter": https://x.com/Amit_Seal_Ami 
 - LinkedIn: https://www.linkedin.com/in/AmitSealAmi
 
-![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=lordamit&show_icons=true&theme=transparent)
+![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=lordamit&show_icons=true&theme=transparent&rank_icon=github)
 
 <!--
 **LordAmit/LordAmit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
